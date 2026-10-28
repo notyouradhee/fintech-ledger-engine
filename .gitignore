@@ -1,5 +1,9 @@
-# Local AI agent configuration 
+# Local workspace configuration
 .agents/
+.planning/config.json
+GEMINI.md
+AGENTS.md
+CLAUDE.md
 
 # Python
 __pycache__/
